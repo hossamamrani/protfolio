@@ -1,0 +1,4 @@
+# add the following to _config.yml file
+title: HOSSAM AMRANI
+show_downloads: true
+theme: jekyll-theme-minimal
